@@ -50,6 +50,8 @@ _Data, Technology, and Gender: Thinking About (and From) Trans Lives_ -- Anna La
 
 _Gender as a variable in NLP_ -- Brian Larson (2017). _Proceedings of the First ACL Workshop on Ethics in Natural Language Processing_ [pdf here](http://aclweb.org/anthology/W17-1601). A practical guide to ethical experimental design for NLP researchers interested in looking at gender as a variable.  **Data**:red_square:
 
+_Harms of Gender Exclusivity and Challenges in Non-Binary Representation in Language Technologies_ -- Sunipa Dev, Masoud Monajatipoor, Anaelia Ovalle, Arjun Subramonian, Jeff Phillips, and Kai-Wei Chang (2021). _Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing_ [pdf here](https://aclanthology.org/2021.emnlp-main.150/). Thorough introduction to the complexities of gender and how these tie into harms caused by non-binary erasure in language technologies. **Data**:red_square: **LGBTQ+**:rainbow_flag:
+
 ## Classic Texts
 
 _Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective_ -- Donna Haraway (1988). _Feminist Studies_ vol. 14 pp 575-599. Questions the meaning and legitimacy of “objectivity” in scientific inquiry,  which tends to privilege and position (white, Euro-centric) masculinist thought as the unmarked norm from which all other people deviate. Haraway argues instead for “embodied knowledge” where the position of the researcher(s) is acknowledged and considered as part of the research process. 
